@@ -1,0 +1,12 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.container input,button {
+    font-size: 1.5rem;
+}
